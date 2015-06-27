@@ -1,0 +1,43 @@
+.navbar {
+	background-color:#6699FF;
+	color:#fff;
+
+	.navbar-brand {
+		color:#fff;
+		font-size: 24px;
+		line-height: 24px;
+		//margin:25px;
+	}
+
+	.user-id {
+		color:#fff;
+		font-size: 18px;
+		line-height: 35px;
+	}
+
+	.user-search-box{
+		//width:70%;
+	}
+
+	img {
+		height:30px;
+		border-radius: 0%;
+		margin-top: 10px;
+		border-radius:90%;
+	}
+
+}
+
+
+#header {
+	background-image: url("http://s3.amazonaws.com/viking_education/web_development/web_app_eng/hogwarts_small.jpg");
+}
+
+
+
+.foot {
+	background-color: #E6E6E6;
+	height: 20px;
+}
+
+

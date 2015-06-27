@@ -1,0 +1,3 @@
+# Files for Github to ignore
+# Ignore Sass Cache
+.sass-cache
